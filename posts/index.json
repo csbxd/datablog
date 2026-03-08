@@ -1,3 +1,15 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "slug": "linux-rust-initramfs-qemu-module-guide",
+      "title": "编译 linux for rust 并制作 initramfs 最后编写 rust_helloworld 内核驱动 并在 qemu 环境加载",
+      "summary": "这是一份相当详细的教程！编译内核、制作initramfs、编写Rust内核模块，全部搞定。看起来挺复杂的，但是有了这份教程，应该会容易一些。你有兴趣尝试吗？",
+      "date": "2023-11-09T22:06:32+08:00",
+      "tags": [
+        "技术",
+        "rust",
+        "linux"
+      ]
+    }
+  ]
 }
