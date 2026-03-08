@@ -1,14 +1,3 @@
 {
-  "posts": [
-    {
-      "slug": "git-store-smoke-1772963704",
-      "title": "Git Store Smoke",
-      "summary": "smoke test",
-      "date": "2026-03-08T17:55:00.000Z",
-      "tags": [
-        "smoke",
-        "git-store"
-      ]
-    }
-  ]
+  "posts": []
 }
