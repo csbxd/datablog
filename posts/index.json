@@ -10,6 +10,15 @@
         "rust",
         "linux"
       ]
+    },
+    {
+      "slug": "arch-podman-rootless-guide",
+      "title": "arch podman无根(rootless)模式使用教程",
+      "summary": "这篇文章是关于在 Arch Linux 上使用 Podman 的无根（rootless）模式的使用教程，它涵盖了从安装到自启动的步骤。文章首先介绍了为什么选择 Podman 以及无根模式的好处，然后提供了安装 Podman 的指导。接着，文章详细说明了如何配置用户命名空间以启用无根模式，并演示了如何创建和管理容器。此外，文章还介绍了如何设置自启动脚本，以便在系统启动时自动启动 Podman。通过阅读这篇文章，读者将获得在 Arch Linux 上安装、配置和使用 Podman 无根模式的全面指南。",
+      "date": "2023-07-16T23:51:55+08:00",
+      "tags": [
+        "技术"
+      ]
     }
   ]
 }
